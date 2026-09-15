@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .env
 input_videos/
+*.pt
+runs/
 premiere_image.jpg
+detections_filtrees.jpg
