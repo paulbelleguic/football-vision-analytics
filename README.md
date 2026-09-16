@@ -1,10 +1,9 @@
-# Football Vision Analytics
+# Première démonstration vidéo
 
-Projet personnel pour apprendre à analyser des vidéos de football avec Python.
-
-## Objectif
-Détecter et suivre les joueurs, les arbitres et le ballon,
-puis ajouter une mini-carte et des statistiques.
-
-## Avancement
-Création du projet.
+-Vidéo annotée de 10 secondes, soit 300 images.
+-Deux modèles : personnes et ballon
+-Ballon proposé sur 237 images sur 300 (79 %).
+-Vérification visuelle préliminaire : détections globalement utiles.
+-Limites : erreurs ponctuelles, confusion arbitre/joueur,
+pas encore de suivi des identités.
+-Le modèle ballon n’a été entraîné que pendant 3 époques.

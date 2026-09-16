@@ -7,3 +7,10 @@ input_videos/
 runs/
 premiere_image.jpg
 detections_filtrees.jpg
+detections_football/
+detections_football_nms/
+datasets/
+verification_dataset/
+detections_notre_modele_v1/
+detections_notre_modele_v1_seuil0,05/
+outputs/
